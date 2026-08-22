@@ -1,4 +1,4 @@
-# 💫 About Me:
+ 
  🎓 BCA Student<br>💻 Interested in Software Development<br>🌱 Learning Python, SQL & Web Development<br>🔨 Building projects to improve my skills<br>📚 Always learning something new<br>⚡ Curious about Technology & AI<br>
 
 
